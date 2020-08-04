@@ -1,7 +1,7 @@
 ### I have worked on projects in C++, Java, Python, Clojure and Erlang. Here is what I'm currently working on👋
 
 
-- 🔭 I’m currently working on ... MERN Stack
+- 🔭 I’m currently working on ... MERN stack
 - 🌱 I’m currently learning ...React.js and Express.js
 - 👯 I’m looking to collaborate on ...MERN stack
 - 🤔 I’m looking for help with ... Backend Development
